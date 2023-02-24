@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a software engineer with a diverse background in various industries including automotive, EdTech, and consulting. I am currently pursuing a Master's degree in Computer Science and Business Technology at IE University in Madrid. My BSc degree from University of Bath, international background, and fluency in multiple languages have equipped me with a strong foundation in computer science and the ability to adapt to different environments. Through my participation in datathons and leadership roles in sports teams, I have developed strong problem-solving, teamwork, and communication skills.
+**I'm Nick, software engineer from UK/Germany, currently living in Madrid, Spain.**
+
+I have a diverse background in the automotive, EdTech, and consulting industries. I am currently pursuing a Master's degree in Computer Science and Business Technology at IE University in Madrid. My BSc degree from University of Bath, international background, and fluency in multiple languages have equipped me with a strong foundation in computer science and the ability to adapt to different environments.
 
 <!--
 **nicholasdieke/nicholasdieke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
