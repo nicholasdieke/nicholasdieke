@@ -4,6 +4,11 @@
 
 I have a diverse background in the automotive, EdTech, and consulting industries. I am currently pursuing a Master's degree in Computer Science and Business Technology at IE University in Madrid. My BSc degree from University of Bath, international background, and fluency in multiple languages have equipped me with a strong foundation in computer science and the ability to adapt to different environments.
 
+- 🔭 I’m currently working on 'HabbitTrack'
+- 🌱 I’m currently learning Microsoft Azure
+- 📫 How to reach me: nicholasdieke@icloud.com
+
+
 <!--
 **nicholasdieke/nicholasdieke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
