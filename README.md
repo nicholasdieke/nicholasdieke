@@ -1,4 +1,4 @@
-![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
+![Banner](https://indoanalytica.com/static/images/bannerr.gif)
 
 ###
 
