@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" width='100%' src="https://indoanalytica.com/static/images/bannerr.gif"  />
-</div>
+![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
 ###
 
