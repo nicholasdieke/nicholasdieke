@@ -1,4 +1,4 @@
-![Banner](https://indoanalytica.com/static/images/bannerr.gif)
+<img src="https://indoanalytica.com/static/images/bannerr.gif" alt="Banner" height="150px">
 
 ###
 
