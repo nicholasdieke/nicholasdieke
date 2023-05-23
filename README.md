@@ -1,4 +1,4 @@
-<img src="https://indoanalytica.com/static/images/bannerr.gif" alt="Banner" height="150px">
+<img src="https://indoanalytica.com/static/images/bannerr.gif" alt="Banner" height="150px" width="100%">
 
 ###
 
